@@ -14,7 +14,7 @@ The base config is found in `exponentialSkillGroups.json`. This contains a skele
 
 ```
 {
-    "domain": "head",
+    "domain": "head|hand|heart",
     "skillId": number,
     "skillName": string,
     "allCompany": {

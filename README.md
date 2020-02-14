@@ -12,36 +12,41 @@ Requires `leapExponential.json` to be populated with a JSON export of the Expone
 
 The base config is found in `exponentialSkillGroups.json`. This contains a skeleton of the skill groups with no additional information.
 
-```{
-"domain": "head",
-"skillId": number,
-"skillName": string,
-"allCompany": {
-"notPrioritized": number,
-"learning": number,
-"fluent": number,
-"goal": number
-},
-"engineering": {
-"learning": number,
-"fluent": number,
-"notPrioritized": number
-},
-"product": {
-"learning": number,
-"fluent": number,
-"notPrioritized": number
-},
-"strategy": {
-"learning": number,
-"fluent": number,
-"notPrioritized": number
-},
-"business": {
-"learning": number,
-"fluent": number,
-"notPrioritized": number
-},
-"operations": { "learning": number, "fluent": number, "notPrioritized": number}
+```
+{
+    "domain": "head",
+    "skillId": number,
+    "skillName": string,
+    "allCompany": {
+        "notPrioritized": number,
+        "learning": number,
+        "fluent": number,
+        "goal": number
+    },
+    "engineering": {
+        "learning": number,
+        "fluent": number,
+        "notPrioritized": number
+    },
+    "product": {
+        "learning": number,
+        "fluent": number,
+        "notPrioritized": number
+    },
+    "strategy": {
+        "learning": number,
+        "fluent": number,
+        "notPrioritized": number
+    },
+    "business": {
+        "learning": number,
+        "fluent": number,
+        "notPrioritized": number
+    },
+    "operations": {
+        "learning": number,
+        "fluent": number,
+        "notPrioritized": number
+    }
 }
 ```

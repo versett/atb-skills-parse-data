@@ -12,6 +12,8 @@ Requires `leapExponential.json` to be populated with a JSON export of the Expone
 
 The base config is found in `exponentialSkillGroups.json`. This contains a skeleton of the skill groups with no additional information.
 
+_Skill Schema_
+
 ```
 {
     "domain": "head|hand|heart",

@@ -1,0 +1,38 @@
+[
+  {
+    "groupName": "Artificial Intelligence",
+    "groupId": "artificial-intelligence",
+    "skills": []
+  },
+  {
+    "groupName": "BioTech",
+    "groupId": "biotech",
+    "skills": []
+  },
+  {
+    "groupName": "Blockchain",
+    "groupId": "blockchain",
+    "skills": []
+  },
+  {
+    "groupName": "IoT Engineering",
+    "groupId": "iot-engineering",
+    "skills": []
+  },
+  {
+    "groupName": "Neurotechnology",
+    "groupId": "neurotechnology",
+    "skills": []
+  },
+
+  {
+    "groupName": "Quantum",
+    "groupId": "quantum",
+    "skills": []
+  },
+  {
+    "groupName": "Robotics",
+    "groupId": "robotics",
+    "skills": []
+  }
+]

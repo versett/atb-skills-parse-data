@@ -1,0 +1,4658 @@
+[
+  {
+    "groupName": "Activating and leading a whole organization",
+    "groupId": "activating-org",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2ca5",
+        "skillName": "Adjusting your organization's operating model",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ca9",
+        "skillName": "Coaching executives",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ca3",
+        "skillName": "Enlisting peers or executives",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cab",
+        "skillName": "Leading a leadership team",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cad",
+        "skillName": "Leading organizational talent systems",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ca7",
+        "skillName": "Leading performance improvement habits for your organization",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ca1",
+        "skillName": "Recruiting executives",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c9f",
+        "skillName": "Setting a vision for an organization",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Activating and leading a working team",
+    "groupId": "activating-working-team",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2ccb",
+        "skillName": "Coaching your colleagues",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cc7",
+        "skillName": "Encouraging your team to improve how the team works",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cc9",
+        "skillName": "Helping your team learn from their performance outcomes",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c9d",
+        "skillName": "Inspiring your team",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cc5",
+        "skillName": "Leading your team's adaptive performance process",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ccd",
+        "skillName": "Pressure testing qualitative work",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2ccf",
+        "skillName": "Pressure testing quantitative work",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cd1",
+        "skillName": "Recruiting for your team",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cc3",
+        "skillName": "Setting a vision and theory of impact for a working team",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Activating your team",
+    "groupId": "activating-your-team",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2c85",
+        "skillName": "Leading adaptive project management",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 9,
+          "learning": 11,
+          "fluent": 1,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 1,
+          "notPrioritized": 4
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c83",
+        "skillName": "Leading difficult conversations",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 15,
+          "fluent": 2,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 4,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 3, "fluent": 0, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c87",
+        "skillName": "Living to team norms",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 2,
+          "learning": 8,
+          "fluent": 11,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 3,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 2, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c89",
+        "skillName": "Organizing, leading, and participating in meetings",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 7,
+          "fluent": 13,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 4,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 4,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 2, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c8d",
+        "skillName": "Representing our mission",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 13,
+          "fluent": 7,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 3,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 4,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 2, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c8f",
+        "skillName": "Using team productivity technology",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 11,
+          "fluent": 6,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 3,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      }
+    ]
+  },
+  {
+    "groupName": "Activating yourself",
+    "groupId": "activating-yourself",
+    "skills": [
+      {
+        "skillId": "5c40c06b8d9d1363f52b76da",
+        "skillName": "Building and applying grit",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 8,
+          "fluent": 12,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 7,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c6f",
+        "skillName": "Building and using your work process",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 2,
+          "learning": 16,
+          "fluent": 3,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 8,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 3, "fluent": 0, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c71",
+        "skillName": "Collecting advice",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 0,
+          "learning": 14,
+          "fluent": 7,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 8,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 2, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c73",
+        "skillName": "Communicating with structure",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 3,
+          "learning": 13,
+          "fluent": 5,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 3,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c48",
+        "skillName": "Forming hypotheses and developing experiments",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 12,
+          "fluent": 5,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c4a",
+        "skillName": "Generating ideas by analyzing your competitors",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 5,
+          "learning": 8,
+          "fluent": 8,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 3,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c4c",
+        "skillName": "Generating ideas through data",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 15,
+          "fluent": 2,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 9,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c4e",
+        "skillName": "Managing personal risk",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 6,
+          "fluent": 11,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 5,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 2, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c75",
+        "skillName": "Managing time and commitments",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 13,
+          "fluent": 7,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 7,
+          "fluent": 3,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c77",
+        "skillName": "Owning your tomo",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 17,
+          "fluent": 3,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 8,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 3, "fluent": 0, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c79",
+        "skillName": "Pressure testing your work",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 5,
+          "learning": 8,
+          "fluent": 8,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 4,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c7b",
+        "skillName": "Pulling in help",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 1,
+          "learning": 11,
+          "fluent": 9,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 5,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c81",
+        "skillName": "Sharing your perspective",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 0,
+          "learning": 12,
+          "fluent": 9,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 4,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c7f",
+        "skillName": "Using math at work",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 9,
+          "learning": 4,
+          "fluent": 8,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 5,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      }
+    ]
+  },
+  {
+    "groupName": "Analysis",
+    "groupId": "analysis",
+    "skills": [
+      {
+        "skillId": "5878da5bb6789281bd55e8c5",
+        "skillName": "Validating and scrubbing data for analysis",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 0,
+          "fluent": 5,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e90b",
+        "skillName": "Creating insight through financial analysis",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 5,
+          "fluent": 2,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8cf",
+        "skillName": "Creating insight through descriptive non-statistical analytics",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 2,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "593dda083200004400d644a9",
+        "skillName": "Creating insight through descriptive statistical analytics",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 3,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "593de1fe3200001800d644ad",
+        "skillName": "Driving decisions through prescriptive non-statistical modeling",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 2,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "593de1363200001700d644ab",
+        "skillName": "Driving decisions through prescriptive statistical models",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 17,
+          "learning": 3,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8d3",
+        "skillName": "Driving decisions through predictive, forecasting statistical models",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 15,
+          "learning": 5,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8c9",
+        "skillName": "Create quantitative data to better understand team impact and areas of improvement",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 3,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      }
+    ]
+  },
+  {
+    "groupName": "B2B client development / sales",
+    "groupId": "b2b-client-development",
+    "skills": [
+      {
+        "skillId": "5878da5cb6789281bd55e8db",
+        "skillName": "Building and activating an impactful external network",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e8dd",
+        "skillName": "Coordinating the flow of client development",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8cd",
+        "skillName": "Diagnosing a client's deeper needs",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e8f3",
+        "skillName": "Illustrating and personifying our value proposition",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5db6789281bd55e975",
+        "skillName": "Making a proposal for partnership and value exchange",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "593d80353200001800d6449f",
+        "skillName": "Motivating a client to take action",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "B2C building a local community",
+    "groupId": "b2c-local-community",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00c64",
+        "skillName": "Building a community",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 2,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c66",
+        "skillName": "Building advisory relationships with prospective customers",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "B2C offering products and services",
+    "groupId": "products",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00c68",
+        "skillName": "Analyzing and understanding the customer",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c6a",
+        "skillName": "Identifying the solution",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c6c",
+        "skillName": "Teaching the solution",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "B2C servicing and supporting customers",
+    "groupId": "b2c-servicing",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00c6e",
+        "skillName": "Applying math in mission critical processes",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c70",
+        "skillName": "Applying policy, process, and best practices",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 2,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c72",
+        "skillName": "Creating brand and values consistent materials",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c74",
+        "skillName": "Engaging a customer with empathy and without bias",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c76",
+        "skillName": "Execute complex processes and procedures without missing adaptive opportunities",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c78",
+        "skillName": "Investigating and troubleshooting the customer's problem",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c7a",
+        "skillName": "Owning your environment, tools, and materials",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c7c",
+        "skillName": "Resolving the customer's problem",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00c7e",
+        "skillName": "Teaching to customers to self-serve",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Communications",
+    "groupId": "communications",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2cc1",
+        "skillName": "Communicating in executive / board meetings",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 9,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cbf",
+        "skillName": "Communicating on stage",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 9,
+          "learning": 9,
+          "fluent": 3,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 2, "fluent": 0, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cbd",
+        "skillName": "Communicating through long-form writing",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 5,
+          "fluent": 5,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cbb",
+        "skillName": "Communicating through visuals",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 3,
+          "fluent": 7,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      }
+    ]
+  },
+  {
+    "groupName": "Customer insight gathering",
+    "groupId": "customer-insight",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00c94",
+        "skillName": "Gathering qualitative customer insight ethnographically",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 5,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "593db36e3200001300d644a5",
+        "skillName": "Gathering quantitative customer insight through experiments",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 6,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8cb",
+        "skillName": "Gathering quantitative customer insight through surveys",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 4,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      }
+    ]
+  },
+  {
+    "groupName": "Digital design",
+    "groupId": "digital-design",
+    "skills": [
+      {
+        "skillId": "59aef2e0300000200016e9c9",
+        "skillName": "Designing for aesthetics",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aef0ed300000160016e9c1",
+        "skillName": "Designing for engineering efficiency",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 6,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 4,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aef182300000130016e9c5",
+        "skillName": "Designing for platform usability",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 4,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 1,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aef38c3000003d0016e9cb",
+        "skillName": "Designing for user psychology",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 6,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 1,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aef2c03000003e0016e9c7",
+        "skillName": "Designing responsive dynamic interfaces",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 12,
+          "learning": 6,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Finance analysis",
+    "groupId": "finance-analysis",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00ca5",
+        "skillName": "Analyzing costs through cost allocation techniques",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00ca7",
+        "skillName": "Building and maintaining budgets",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00ca9",
+        "skillName": "Building financial hedging strategies",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cab",
+        "skillName": "Building public-quality financial reports and disclosures",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cad",
+        "skillName": "Conducting valuation analyses of businesses",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00caf",
+        "skillName": "Creating financial systems for a whole company",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cb1",
+        "skillName": "Optimizing the cash flow cycle for a whole organization",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Legal analysis",
+    "groupId": "legal-analysis",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00cb3",
+        "skillName": "Creating standardized legal contract templates",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cb5",
+        "skillName": "Keeping an organization in compliance with international laws",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cb7",
+        "skillName": "Keeping an organization in compliance with regional and federal laws",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cb9",
+        "skillName": "Keeping an organization in compliance with state laws",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cbb",
+        "skillName": "Providing internal legal advice",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cbd",
+        "skillName": "Providing legal support for human resources issues",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cbf",
+        "skillName": "Reviewing contracts",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Office operations",
+    "groupId": "office-operations",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00cd5",
+        "skillName": "Designing and implementing policy",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cd7",
+        "skillName": "Designing internal processes and procedures",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 2,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 2, "fluent": 0, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cd9",
+        "skillName": "Leveraging internal administrative systems",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cdb",
+        "skillName": "Managing leaders' time and calendars",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 2, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cdd",
+        "skillName": "Planning major events",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      }
+    ]
+  },
+  {
+    "groupName": "Persuasion",
+    "groupId": "persuasion",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2c97",
+        "skillName": "Maintaining professionalism (Ethos 1)",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c99",
+        "skillName": "Signaling confidence and humility (Ethos 2)",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c91",
+        "skillName": "Consensus building (Logos 1)",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c9b",
+        "skillName": "Constructing a logical position (Logos 2)",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c93",
+        "skillName": "Story telling (Pathos 1)",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2c95",
+        "skillName": "Using emotional rhetoric (Pathos 2)",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Problem solving",
+    "groupId": "problem-solving",
+    "skills": [
+      {
+        "skillId": "5878da5bb6789281bd55e8c1",
+        "skillName": "Conducting research to solve problems",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 3,
+          "learning": 8,
+          "fluent": 10,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 4,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 1, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5936de32330000160059fe9a",
+        "skillName": "Framing problems",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 4,
+          "learning": 12,
+          "fluent": 5,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 7,
+          "fluent": 2,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 4,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5db6789281bd55e94d",
+        "skillName": "Solving problems through straw model iteration",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 10,
+          "learning": 10,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 7,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e8e9",
+        "skillName": "Solving problems through hypothesis-based root cause analysis",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 6,
+          "learning": 10,
+          "fluent": 5,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5bb6789281bd55e8c3",
+        "skillName": "Solving problems through theory and experimentation",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 3,
+          "learning": 12,
+          "fluent": 6,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 4,
+          "notPrioritized": 0
+        },
+        "product": {
+          "learning": 4,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e8e7",
+        "skillName": "Building consensus among people with strong, differing opinions",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 5,
+          "learning": 12,
+          "fluent": 4,
+          "goal": 2
+        },
+        "engineering": {
+          "learning": 7,
+          "fluent": 2,
+          "notPrioritized": 1
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      }
+    ]
+  },
+  {
+    "groupName": "Process optimization",
+    "groupId": "process-optimization",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00ceb",
+        "skillName": "Designing processes",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 12,
+          "learning": 8,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 2, "fluent": 0, "notPrioritized": 1 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00ced",
+        "skillName": "Optimizing processes analytically",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 12,
+          "learning": 5,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 2, "fluent": 0, "notPrioritized": 1 }
+      }
+    ]
+  },
+  {
+    "groupName": "Product management",
+    "groupId": "product-management",
+    "skills": [
+      {
+        "skillId": "5878da5cb6789281bd55e8ff",
+        "skillName": "Anchoring the team with a vision for a product",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 3,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e909",
+        "skillName": "Building a product architecture and roadmap from the vision",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 3,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e901",
+        "skillName": "Leading a collaborative product development process",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e903",
+        "skillName": "Specifying the needs and constraints of a product component or feature",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5878da5cb6789281bd55e907",
+        "skillName": "Working with engineering and manufacturing",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Software infrastructure",
+    "groupId": "software-infrastructure",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00cf6",
+        "skillName": "Administering databases",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 5,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 3,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cf8",
+        "skillName": "Delivering helpdesk support",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeef483000007c0b16e9af",
+        "skillName": "Designing and developing distributed applications infrastructure",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 6,
+          "fluent": 2,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeef77300000130016e9b1",
+        "skillName": "Maintaining a distributed applications infrastructure",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 5,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 2,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeeeca3000003e0016e9ab",
+        "skillName": "Making networks and systems secure",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 15,
+          "learning": 5,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 5,
+          "fluent": 1,
+          "notPrioritized": 4
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Software programming",
+    "groupId": "software-programming",
+    "skills": [
+      {
+        "skillId": "59aeecdf300000200016e99b",
+        "skillName": "Building web-app user interfaces",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 6,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00cfe",
+        "skillName": "Designing and building secure applications",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 6,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 6,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeedd0300000140016e9a5",
+        "skillName": "Implementing algorithms and data structures",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 2,
+          "fluent": 6,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 6,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeec9d300000160016e997",
+        "skillName": "Building modular / testable components",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 2,
+          "fluent": 5,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 5,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeec1d300000140016e993",
+        "skillName": "Programming in the small",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 3,
+          "fluent": 5,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 5,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeec44300000200016e995",
+        "skillName": "Programming in the large",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 4,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 3,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeecb63000007c0b16e999",
+        "skillName": "Supporting code after delivery",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 15,
+          "learning": 4,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 2,
+          "notPrioritized": 4
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Software programming paradigms",
+    "groupId": "software-paradigms",
+    "skills": [
+      {
+        "skillId": "59aeedb3300000200016e9a3",
+        "skillName": "Dynamic / scripting programming",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 1,
+          "fluent": 7,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 7,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeed3d3000003e0016e99f",
+        "skillName": "Functional programming",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 3,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 2,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeed72300000140016e9a1",
+        "skillName": "Procedural / imperative programming",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 0,
+          "fluent": 7,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 7,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "59aeed1a300000150016e99d",
+        "skillName": "Programming in an object oriented paradigm",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 13,
+          "learning": 2,
+          "fluent": 6,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 6,
+          "notPrioritized": 2
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Software quality engineering",
+    "groupId": "software-quality",
+    "skills": [
+      {
+        "skillId": "5b9adc76063092ce46b00d09",
+        "skillName": "API Automation",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 4,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 3,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00d0b",
+        "skillName": "Create and coding automated tests",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 4,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 3,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00d0d",
+        "skillName": "Managing test planning",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 15,
+          "learning": 4,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 2,
+          "notPrioritized": 4
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b9adc76063092ce46b00d0f",
+        "skillName": "Manual testing",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 1,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 4,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  },
+  {
+    "groupName": "Strategy",
+    "groupId": "strategy",
+    "skills": [
+      {
+        "skillId": "5b08476eb59100ac961e2cb1",
+        "skillName": "Building strategy through a customer viability lens",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 11,
+          "learning": 7,
+          "fluent": 3,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 3,
+          "fluent": 1,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2caf",
+        "skillName": "Building strategy through a risk reward lens",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 14,
+          "learning": 4,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cb5",
+        "skillName": "Building strategy through a technological progression lens",
+        "domain": "hand",
+        "allCompany": {
+          "notPrioritized": 12,
+          "learning": 8,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 4,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 1, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cb3",
+        "skillName": "Building strategy through an execution viability lens",
+        "domain": "heart",
+        "allCompany": {
+          "notPrioritized": 15,
+          "learning": 5,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 1, "fluent": 0, "notPrioritized": 2 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cb9",
+        "skillName": "Optimizing portfolios of businesses",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 17,
+          "learning": 3,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      },
+      {
+        "skillId": "5b08476eb59100ac961e2cb7",
+        "skillName": "Optimizing strategic portfolios within a single business",
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 16,
+          "learning": 4,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 2,
+          "fluent": 0,
+          "notPrioritized": 0
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 1
+        },
+        "operations": { "learning": 0, "fluent": 0, "notPrioritized": 3 }
+      }
+    ]
+  }
+]

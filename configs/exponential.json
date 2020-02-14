@@ -1,0 +1,3212 @@
+[
+  {
+    "groupName": "Artificial Intelligence",
+    "groupId": "artificial-intelligence",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120317",
+        "skillName": "Distributed Computing"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 2,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120311",
+        "skillName": "Data Science"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120347",
+        "skillName": "Mathematics - Statistics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 4,
+          "fluent": 1,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 4,
+          "fluent": 1,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202fb",
+        "skillName": "Coding - Aritifical Intelligence"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120371",
+        "skillName": "Robotics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120341",
+        "skillName": "Mathematics - Algorithms"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120301",
+        "skillName": "Cognitive Science Theory"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120327",
+        "skillName": "Game Theory"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12033f",
+        "skillName": "Mathematics - Algebra"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120345",
+        "skillName": "Mathematics - Logic"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202eb",
+        "skillName": "Bayesian networking, graphical modeling, neural nets"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120367",
+        "skillName": "Programming Languages"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120305",
+        "skillName": "Computer Vision - Artificial Intelligence"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120343",
+        "skillName": "Mathematics - Calculus"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120303",
+        "skillName": "Computer engineering"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120351",
+        "skillName": "Natural Language Processing"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12035f",
+        "skillName": "Physics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202ef",
+        "skillName": "Big-data Computing"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12038b",
+        "skillName": "Unix Tools"
+      }
+    ]
+  },
+  {
+    "groupName": "BioTech",
+    "groupId": "biotech",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120369",
+        "skillName": "Proteomics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12032d",
+        "skillName": "Hardware Development and Experimentation"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120393",
+        "skillName": "Western Blot"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12037f",
+        "skillName": "Statistical Analysis"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120389",
+        "skillName": "Tissue Culture"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202f7",
+        "skillName": "Cell-Based Assays"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12034b",
+        "skillName": "Modern (cell) Biology"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12034d",
+        "skillName": "Molecular (Gene) Cloning"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12031b",
+        "skillName": "ELISA"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202f1",
+        "skillName": "Bioinformatics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120309",
+        "skillName": "Confocal Microscopy"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12033d",
+        "skillName": "Mass Spectrometry"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120359",
+        "skillName": "PCR (Polymerase Chain Reaction)"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12032b",
+        "skillName": "Genomics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120329",
+        "skillName": "Gel Electrophoresis"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120325",
+        "skillName": "Flow Cytometry"
+      }
+    ]
+  },
+  {
+    "groupName": "Blockchain",
+    "groupId": "blockchain",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12037d",
+        "skillName": "Solidity and Truffle"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202fd",
+        "skillName": "Coding - Blockchain"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12030d",
+        "skillName": "Cryptography"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202f3",
+        "skillName": "Blockchain/ Communication Architecture"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 4,
+          "notPrioritized": 6
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12038f",
+        "skillName": "Web development"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 17,
+          "learning": 0,
+          "fluent": 6,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 6,
+          "notPrioritized": 4
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120313",
+        "skillName": "Data structures"
+      }
+    ]
+  },
+  {
+    "groupName": "IoT Engineering",
+    "groupId": "iot-engineering",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12038d",
+        "skillName": "Vulnerability assessment"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12031f",
+        "skillName": "Ethical hacking"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120373",
+        "skillName": "Routing"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120377",
+        "skillName": "Sensor data analysis"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 3,
+          "fluent": 1,
+          "goal": 5
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 1,
+          "notPrioritized": 6
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12033b",
+        "skillName": "Machine Learning/Deep Learning/AI"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 1,
+          "fluent": 3,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120391",
+        "skillName": "Web development & coding"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 2,
+          "fluent": 2,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 2,
+          "notPrioritized": 6
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202ed",
+        "skillName": "Big data"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120333",
+        "skillName": "Industrial IoT"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120381",
+        "skillName": "Switching"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12036f",
+        "skillName": "Responsive web design & Service design (UX/UI)"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 1,
+          "fluent": 4,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 4,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120365",
+        "skillName": "Programming (Hardware & Software) - IoT Engineering"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 1,
+          "fluent": 4,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 4,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202ff",
+        "skillName": "Coding - IoT Engineering"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120395",
+        "skillName": "Wireless network security"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120335",
+        "skillName": "IP Networking"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 2,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120387",
+        "skillName": "Test Automation"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12036b",
+        "skillName": "Public key infrastructure (PKI) security"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120361",
+        "skillName": "Predictive analytics"
+      }
+    ]
+  },
+  {
+    "groupName": "Neurotechnology",
+    "groupId": "neurotechnology",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12034f",
+        "skillName": "Nano & quantum approaches for BCI ( Brain-Computer interface)"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120355",
+        "skillName": "Neuromodulation: TMS, TDCS, LFMS"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12035d",
+        "skillName": "Pharmaceuticals"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120331",
+        "skillName": "Implant technologies, Cell Therapy,"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120353",
+        "skillName": "Neuroimaging: Magnetoencephalography, MRI (fMRI, DTI), CT, PET"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120321",
+        "skillName": "Ethics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202f9",
+        "skillName": "Cellular targeting"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120379",
+        "skillName": "Signal analysis"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202f5",
+        "skillName": "Brain-computer interface"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12030f",
+        "skillName": "CSM (EEG, MEG)"
+      }
+    ]
+  },
+  {
+    "groupName": "Quantum",
+    "groupId": "quantum",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120339",
+        "skillName": "Linear algebra (other Mathematics)"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12030b",
+        "skillName": "Conventional Integrated circuit manufacturing techniques"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12036d",
+        "skillName": "Quantum Mechanics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120315",
+        "skillName": "Digital Computing"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 0,
+          "fluent": 4,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 3
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120319",
+        "skillName": "Electrical/ Physics/ Engineering degree (or knowledge)"
+      }
+    ]
+  },
+  {
+    "groupName": "Robotics",
+    "groupId": "robotics",
+    "skills": [
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 19,
+          "learning": 3,
+          "fluent": 1,
+          "goal": 3
+        },
+        "engineering": {
+          "learning": 3,
+          "fluent": 1,
+          "notPrioritized": 6
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a1202e9",
+        "skillName": "Artificial Intelligence"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120385",
+        "skillName": "Technology design"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12031d",
+        "skillName": "Engineering"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 0,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120363",
+        "skillName": "Programming (Hardware & Software) - Robotics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 18,
+          "learning": 0,
+          "fluent": 5,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 5,
+          "notPrioritized": 5
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120323",
+        "skillName": "Familiarity with Linux"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12032f",
+        "skillName": "Human Computer Interaction - UI/UX"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 1,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 2,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120349",
+        "skillName": "Mathematics (Algebra, Calculus and Geometry)"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 0,
+          "fluent": 2,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120337",
+        "skillName": "Knowledge of personal robotics vs industrial robotics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 12,
+          "learning": 2,
+          "fluent": 9,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 5,
+          "notPrioritized": 3
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 2,
+          "notPrioritized": 2
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 2
+        },
+        "skillId": "5dbb485a266eaa8f8a1202e7",
+        "skillName": "Analytical Thinking/Critical Thinking/ Judgement & Decision making"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 23,
+          "learning": 0,
+          "fluent": 0,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 10
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120375",
+        "skillName": "Sciences"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 22,
+          "learning": 1,
+          "fluent": 0,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12037b",
+        "skillName": "Simulation Knowledge"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 1,
+          "notPrioritized": 9
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 1,
+          "fluent": 0,
+          "notPrioritized": 2
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a12035b",
+        "skillName": "Persona design and creation"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 21,
+          "learning": 1,
+          "fluent": 1,
+          "goal": 0
+        },
+        "engineering": {
+          "learning": 1,
+          "fluent": 1,
+          "notPrioritized": 8
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120357",
+        "skillName": "NLP"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 2,
+          "fluent": 1,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 2,
+          "fluent": 1,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120307",
+        "skillName": "Computer Vision - Robotics"
+      },
+      {
+        "domain": "head",
+        "allCompany": {
+          "notPrioritized": 20,
+          "learning": 0,
+          "fluent": 3,
+          "goal": 1
+        },
+        "engineering": {
+          "learning": 0,
+          "fluent": 3,
+          "notPrioritized": 7
+        },
+        "product": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 4
+        },
+        "strategy": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "business": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "operations": {
+          "learning": 0,
+          "fluent": 0,
+          "notPrioritized": 3
+        },
+        "skillId": "5dbb485a266eaa8f8a120383",
+        "skillName": "System Analysis, Design, and Evaluation"
+      }
+    ]
+  }
+]

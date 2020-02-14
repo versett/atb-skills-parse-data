@@ -4,44 +4,10 @@
 // within the softSkills[number].ts files within the /data folder. Run this script, and
 // then copy paste the output array into the appropriate softSkill.ts file
 
-// Skill schema
-// {
-//   "domain": "head",
-//   "skillId": "36",
-//   "skillName": "Tissue Culture",
-//   "allCompany": {
-//     "notPrioritized": 1,
-//     "learning": 8,
-//     "fluent": 12,
-//     "goal": 2
-//   },
-//   "engineering": {
-//     "learning": 2,
-//     "fluent": 7,
-//     "notPrioritized": 1
-//   },
-//   "product": {
-//     "learning": 2,
-//     "fluent": 2,
-//     "notPrioritized": 0
-//   },
-//   "strategy": {
-//     "learning": 2,
-//     "fluent": 0,
-//     "notPrioritized": 0
-//   },
-//   "business": {
-//     "learning": 0,
-//     "fluent": 2,
-//     "notPrioritized": 0
-//   },
-//   "operations": { "learning": 2, "fluent": 1, "notPrioritized": 0 }
-// }
-
 const fs = require("fs");
 
 var rawData = require("./exponentialRaw.json");
-var skillGroups = require("./exponentialSkillGroups.json");
+var skillGroups = require("./baseConfigs/exponentialSkillGroups.json");
 
 const outFileName = process.argv[2] || "exponential.json";
 

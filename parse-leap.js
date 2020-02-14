@@ -7,7 +7,7 @@
 const fs = require("fs");
 
 var data = require("./leapRaw.json");
-var skillData = require("./leapSkillGroups.json");
+var skillData = require("./baseConfigs/leapSkillGroups.json");
 
 const outFileName = process.argv[2] || "leap.json";
 
